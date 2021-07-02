@@ -1,0 +1,6 @@
+{
+  "server": {
+    "port": 3000,
+    "viewedFiles": [".txt", ".log", ".docx", ".html", ".js", ".css", ".md"]
+  }
+}
